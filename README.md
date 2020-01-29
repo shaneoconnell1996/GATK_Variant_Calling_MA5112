@@ -1,2 +1,1 @@
-# GATK_Variant_Calling_MA5112
-# GATK_Variant_Calling_MA5112
+# GATK Variant Calling MA5112
